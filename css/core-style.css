@@ -828,7 +828,7 @@ img {
     color: #fff;
 }
 
-select.form-control:not([size]):not([multiple]) {
+select.:not([size]):not([multiple]) {
     height: 40px;
 }
 

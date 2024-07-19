@@ -619,7 +619,9 @@ img {
   opacity: 0;
   -webkit-transition-duration: 500ms;
   transition-duration: 500ms;
-  background-color: #081f3e;
+  background-color: #081f3e ;
+  /* background-color: rgba(10, 0, 98, 0.15); */
+  border-radius: 200px;
   font-size: 14px; }
   .hero-area .owl-prev:hover,
   .hero-area .owl-next:hover {
@@ -817,6 +819,7 @@ textarea {
       font-weight: 600;
       color: #0297FF;
       font-size: 32px;
+      padding-top: 80px;
     }
     .service-sec h2 small {
       color: #222;
@@ -973,6 +976,11 @@ textarea {
   .medilife-emergency-area .single-emergency-helpline p {
     color: #ffffff;
     margin-bottom: 0; }
+
+
+    .text-xs-center-1{
+       padding-bottom: 20px;
+    }
 
 /* :: 12.0 Footer Area CSS */
 .footer-area {
