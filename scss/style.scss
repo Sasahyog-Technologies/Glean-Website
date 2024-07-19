@@ -329,9 +329,9 @@ img {
     padding: 0 0 100px;
 }
 
-. {
-    padding: 100px 0 20px 0;
-}
+// . {
+//     padding: 100px 0 20px 0;
+// }
 
 .section-heading {
     text-align: center;
@@ -1359,7 +1359,7 @@ textarea {
     z-index: 1;
     width: 33.3333333%;
     display: inline-block;
-    float: left;
+    // float: left;
     padding: 70px 40px 100px;
     &:first-child {
         background-color: $primary-color;
